@@ -1,7 +1,7 @@
 const config = {
   "property": {
-    "streetAddress": "11 Glen Abbey Terrace",
-    "city": "Vaughan",
+    "streetAddress": "11 Glen Terrace",
+    "city": "Arslan",
     "cityStateZip": "Vaughan, ON L4H 4K4",
     "heroSubtitle": "Epitome of Luxury and Grandeur in the exclusive Kleinburg Area. Register to receive the complete property compendium, virtual tour, and comparables.",
     "backgroundImageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
@@ -24,7 +24,7 @@ const config = {
     ]
   },
   "realtor": {
-    "fullName": "iStreet Realty Group",
+    "fullName": "Arslan Ahmed",
     "title": "Brokerage Team",
     "phone": "416-410-2880",
     "email": "rick@istreetrealty.ca",
