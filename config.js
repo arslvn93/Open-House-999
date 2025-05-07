@@ -1,6 +1,6 @@
 const config = {
   "property": {
-    "streetAddress": "sicko",
+    "streetAddress": "1sicko",
     "city": "toronto",
     "cityStateZip": "Vaughan, ON L4H 4K4",
     "heroSubtitle": "Epitome of Luxury and Grandeur in the exclusive Kleinburg Area. Register to receive the complete property compendium, virtual tour, and comparables.",
