@@ -1,6 +1,6 @@
 const config = {
   "property": {
-    "streetAddress": "11 Glen Abbey Terrace",
+    "streetAddress": "sicko",
     "city": "Vaughan",
     "cityStateZip": "Vaughan, ON L4H 4K4",
     "heroSubtitle": "Epitome of Luxury and Grandeur in the exclusive Kleinburg Area. Register to receive the complete property compendium, virtual tour, and comparables.",
