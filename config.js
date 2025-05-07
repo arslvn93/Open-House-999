@@ -1,7 +1,7 @@
 const config = {
   "property": {
-    "streetAddress": "11 Glen Terrace",
-    "city": "Arslan",
+    "streetAddress": "11 Glen Abbey Terrace",
+    "city": "Vaughan",
     "cityStateZip": "Vaughan, ON L4H 4K4",
     "heroSubtitle": "Epitome of Luxury and Grandeur in the exclusive Kleinburg Area. Register to receive the complete property compendium, virtual tour, and comparables.",
     "backgroundImageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
@@ -24,8 +24,8 @@ const config = {
     ]
   },
   "realtor": {
-    "fullName": "Arslan Ahmed",
-    "title": "Brokerage Team",
+    "fullName": "Arslando Man",
+    "title": "Woaz",
     "phone": "416-410-2880",
     "email": "rick@istreetrealty.ca",
     "bio": "At iStreet Realty Group we are built on integrity, insight, and innovation. We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients. With over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties. We prioritize clear communication and use the latest market insights to guide every client toward success—whether buying, selling, or investing. At iStreet Realty Inc., we’re more than real estate experts—we’re your trusted partner in building your future.",
